@@ -4,8 +4,7 @@
   box-sizing: border-box;
 }
 html {
-  background-color:
-  #0B1956;
+  background-color: #0b1956;
 }
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -24,7 +23,7 @@ a {
 }
 
 .header {
-  background-color: #FAF3EB;
+  background-color: #faf3eb;
   padding-block: 20px;
 }
 
@@ -38,7 +37,7 @@ a {
 }
 
 a.active {
-  background-color: #FB9EBB;
+  background-color: #fb9ebb;
   padding: 2px 5px;
   border-radius: 4px;
   font-size: 14px;
@@ -52,43 +51,43 @@ a.active {
   gap: 10px;
 }
 
-.input{
+.input {
   width: 100%;
   max-width: 300px;
   border-radius: 5px;
   border: none;
   padding: 5px 20px;
-  }
-  .input::placeholder{
-    color: #FB9EBB;
-    font-weight: 400;
-    font-size: 15px;
-  }
+}
+.input::placeholder {
+  color: #fb9ebb;
+  font-weight: 400;
+  font-size: 15px;
+}
 
-  .button{
-    padding: 6px;
-    background-color: #FEDCD2;
-    border: none;
-    color: #fff;
-    border-radius: 3px;
-    color: #0B1956;
-    font-size: 15px;
-    cursor: pointer;
-  }
-  .text{
-    padding: 10px 20px;
-    display: flex;
-    align-items: end;
-    gap: 10px;
-  }
-  .h1{
-    color: #FB9EBB;
-  }
+.button {
+  padding: 6px;
+  background-color: #fedcd2;
+  border: none;
+  color: #fff;
+  border-radius: 3px;
+  color: #0b1956;
+  font-size: 15px;
+  cursor: pointer;
+}
+.text {
+  padding: 10px 20px;
+  display: flex;
+  align-items: end;
+  gap: 10px;
+}
+.h1 {
+  color: #fb9ebb;
+}
 
-  .deleteBtn{
-    padding: 0px 5px;
-    background-color: #FEDCD2;
-    border: none;
-    border-radius: 2px;
-    cursor: pointer;
-  }
+.deleteBtn {
+  padding: 0px 5px;
+  background-color: #fedcd2;
+  border: none;
+  cursor: pointer;
+  border-radius: 2px;
+}
